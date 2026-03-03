@@ -78,7 +78,7 @@
 ##### Stats Github
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wira0509&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=wirahrpratama&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ---
@@ -94,5 +94,5 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wira0509.Wira0509&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wirahrpratama.wirahrpratama&"  />
 </div>
