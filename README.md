@@ -1,14 +1,10 @@
 <div align="center">
-  
-<!-- Header Banner -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:a83eb8&height=220&section=header&text=Wira%20Hari%20Pratama&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=ffd166"/>
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Hello!+I'm+Wira+Hari+Pratama;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-
 </div>
-
 
 ---
 
