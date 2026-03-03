@@ -15,13 +15,13 @@
 ##### Social Media
 
 <div align="left">
-  <a href="www.linkedin.com/in/wiraharipratama" target="_blank">
+  <a href="https://www.linkedin.com/in/wiraharipratama" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Pratama_0509" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="www.youtube.com/@wiraharipratama" target="_blank">
+  <a href="https://www.youtube.com/@wiraharipratama" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/wirahrprtama_?igsh=M214dDU0M2ZxZjcx" target="_blank">
